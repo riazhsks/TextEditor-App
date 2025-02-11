@@ -1,6 +1,7 @@
 # TextEditor-App
 
 **Text Editor App – Overview**
+
 The Text Editor App is a user-friendly application designed for creating, editing, and managing text documents. It provides essential text-editing features with a clean and intuitive interface.
 
 ## Key Features:
